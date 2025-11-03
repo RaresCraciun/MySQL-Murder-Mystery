@@ -15,7 +15,7 @@ If you're new to SQL, you may want to start at [the walkthrough](https://mystery
 
 ## Getting Started
 
-* Download the [MySQL_Murder_Mistery_dump.sql](https://github.com/RaresCraciun/MySQL-Murder-Mystery/blob/main/MySQL_Murder_Mistery_dump.sql) file and use a MySQL environment of your choice to solve the mystery. Read the [prompt_beginner](https://github.com/RaresCraciun/MySQL-Murder-Mystery/blob/e838fb84439020cb7ec3ddb78d4b21563c39e517/prompt_beginner.pdf) or the [prompt_experienced](https://github.com/RaresCraciun/MySQL-Murder-Mystery/blob/main/prompt_beginner.pdf) file. You can use the reference to refresh your memory of SQL. Try to complete the activity all within your SQL environment (without writing down notes)!
+* Download the [MySQL_Murder_Mistery_dump.sql](https://github.com/RaresCraciun/MySQL-Murder-Mystery/blob/main/MySQL_Murder_Mistery_dump.sql) file and use a MySQL environment of your choice to solve the mystery. Read the [prompt_beginner](https://github.com/RaresCraciun/MySQL-Murder-Mystery/blob/e838fb84439020cb7ec3ddb78d4b21563c39e517/prompt_beginner.pdf) or the [prompt_experienced](https://github.com/RaresCraciun/MySQL-Murder-Mystery/blob/main/prompt_beginner.pdf) file. You can use the reference to refresh your memory of SQL. Also use the [database diagram](https://github.com/RaresCraciun/MySQL-Murder-Mystery/blob/main/MySQL%20Murder%20Mistery%20database%20diagram.png) if it helps. Try to complete the activity all within your SQL environment (without writing down notes)!
 
 
 ## Checking the Solution
